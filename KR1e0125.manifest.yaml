@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR1e0125_001.yaml, hash: 'sha256:41d1fe888eb615d30f4bae7f6935bce51a6a6c96f11e1488ea9717d8001e3941'}
+  - {seq: 1, filename: KR1e0125_001.yaml, hash: 'sha256:32292f7d1c22f6034a343e72590c29b365b03c9da2f4470f71e77cc5b075ef5b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1e0125_001.markers.yaml, hash: 'sha256:eefb7045f2c5dbced6bb356da99913383c6a35895483f614f6701cb388056454'}
+  - {seq: 1, role: markers, filename: assets/KR1e0125_001.markers.yaml, hash: 'sha256:daec56c4aa1cc669f64cb64a1bff73a94d71429048e0540c5c707eb3d692b909'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 續春秋左氏傳義略
   type: section
   level: 1
-hash: sha256:9d528eb8d2a4a98326edacf2f9933e0dc2b664609c0489db7031ddab0f63e144
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:190f9a1f0c2a8e447ff190e970ebf6fea0b2ca0a664eeed3aab3307c2cbc89d3
