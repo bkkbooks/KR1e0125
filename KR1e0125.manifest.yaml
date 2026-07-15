@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR1e0125/v1
 canonical_location: https://kanripo.org/bkk/KR1e0125/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 續春秋左氏傳義略一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR1e0125_001.yaml, hash: 'sha256:32292f7d1c22f6034a343e72590c29b365b03c9da2f4470f71e77cc5b075ef5b'}
+  - {seq: 1, filename: KR1e0125_001.yaml, hash: 'sha256:41d1fe888eb615d30f4bae7f6935bce51a6a6c96f11e1488ea9717d8001e3941'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1e0125_001.markers.yaml, hash: 'sha256:daec56c4aa1cc669f64cb64a1bff73a94d71429048e0540c5c707eb3d692b909'}
+  - {seq: 1, role: markers, filename: assets/KR1e0125_001.markers.yaml, hash: 'sha256:0f2257fddfc697b6598e83d2f12abd1ccbfc794db2920831711bcfc08c46da2c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 續春秋左氏傳義略
   type: section
   level: 1
-hash: sha256:190f9a1f0c2a8e447ff190e970ebf6fea0b2ca0a664eeed3aab3307c2cbc89d3
+hash: sha256:b0effb8ef300462631f0d76c484e2f389608c9fc034c69b345b7f612dd150848
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
